@@ -14,7 +14,7 @@ name: Carolien Christ
 description: > 
   Website van het ALERT onderzoek.
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://depressie-alert.nl" # the base hostname & protocol for your site
+url: "http://www.depressie-alert.nl" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
 logo: "assets/logo.png"
 timezone: "Europe/Amsterdam"
